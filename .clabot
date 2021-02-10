@@ -1,6 +1,6 @@
 {
   "contributors": "...",
   "message": "We require contributors to sign our Contributor License Agreement, and we don\'t have you on file yet. In order for us to review and merge your code, please go to https:///spruceid.dev/docs/contributing and/or email oss@spruceid.com to sign a CLA and get yourself added.",
-  "label": "...",
-  "recheckComment": "..."
+  "label": "all-cla-signees",
+  "recheckComment": "Rechecked as requested"
 }
