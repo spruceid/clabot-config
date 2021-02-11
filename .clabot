@@ -1,5 +1,5 @@
   {
-  	"contributors": "bumblefudge-alt1", "celehner", "wyc", "theosirian", "w4ll3", "sbihel", "obstropolos", "krhoda", "bumblefudge","vmwvmw",
+  	"contributors": ["bumblefudge-alt1", "celehner", "wyc", "theosirian", "w4ll3", "sbihel", "obstropolos", "krhoda", "bumblefudge","vmwvmw"],
   	"message": "We require contributors to sign our Contributor License Agreement, and we do not have you on file yet. In order for us to review and merge your code, please go to https:///spruceid.dev/docs/contributing and/or email oss@spruceid.com to sign a CLA and get yourself added.",
   	"label": "all-cla-signees",
   	"recheckComment": "Rechecked as requested"
